@@ -1,4 +1,5 @@
 def get_table():
+    
     table = {
         'a': [
             (111, 'aa'),
